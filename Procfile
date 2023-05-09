@@ -1,1 +1,1 @@
-web: gunicorn backend_prueba.wsgi
+web: gunicorn .backend_prueba.wsgi
